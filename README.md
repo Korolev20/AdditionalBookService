@@ -133,12 +133,12 @@ OpenAPI 3 & Spring Boot -для первого сервера http://localhost:8
 
 OpenAPI 3 & Spring Boot - для второго сервера http://localhost:8081/swagger-ui/index.html#/
 Список использованных технологий:
-Spring Boot
-Spring Rest
-Maven
-Spring Security, JWT
-Hibernate, Spring Data Jpa
-Oracle
-ModelMapper
+Spring Boot,
+Spring Rest,
+Maven,
+Spring Security, JWT,
+Hibernate, Spring Data Jpa,
+Oracle,
+ModelMapper,
 Swagger
 
